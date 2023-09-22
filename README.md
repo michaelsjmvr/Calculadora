@@ -1,8 +1,11 @@
-# Projeto: Calculadora em PySide6
+### Hi, I'm Michael D.🤙
 
-## Autor: Michael Douglas P Lima
-## Contato: michaelsjmvr@hotmail.com
-## LinkedIn: [michael-douglas-640a11180](https://www.linkedin.com/in/michael-douglas-640a11180/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-douglas-640a11180/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/michael.douglaspdl/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/MikeeD.Cloud9/)
+
+
+# Projeto: Calculadora em PySide6
 
 ## Descrição do Projeto
 O projeto "Calculadora em PySide6" é uma aplicação de desktop que permite realizar operações matemáticas básicas, como adição, subtração, multiplicação e divisão. O projeto foi desenvolvido utilizando a biblioteca PySide6 para criar a interface gráfica da calculadora.
